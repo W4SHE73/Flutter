@@ -1,6 +1,13 @@
-# app_base
-
-A new Flutter project.
+# Como lo Instale
+1)descargar el SDK de Flutter
+2)descargar android studio y guardar la ruta de ubicacion del SDK(agregar al path)
+3)buscar en la barra de tareas ENV y modifical el path(agregar la ruta del SDK de fluter )
+4)descargar el SDK de Java SE y crear una variable de JAVA_HOME(variable global)
+5)descargar los complementos de Flutter en Android Studios en la seccion de Plugins
+6)Activar las directrices de SDK-tools(android sdk buil tools, AS coman-line,Android emulator, A sdk plataform,google usb driver ,Install Google Play Intel x86 Atom System Image, [obsolete])
+7)modificar la ruta del SDK de Java = flutter confing --android-studio-dir: //ruta
+8)aceptar las politicas de privacidad de flutter
+9)flutter doctor -v
 
 ## Getting Started
 
